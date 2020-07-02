@@ -15,7 +15,9 @@ Xây dựng demo cho dự án quản lý khám chữa bệnh.
 Sử dụng [Google Java Style](https://google.github.io/styleguide/javaguide.html).
 
 **Hướng dẫn cài đặt cho Eclipse:**
+
 *Chọn **Window** -> **Preferences** -> **Java** -> **Code Style** -> **Formatter**.*
+
 *Sau đó **Import** file [eclipse-java-google-style.xml](https://github.com/google/styleguide/blob/gh-pages/eclipse-java-google-style.xml).*
 
 ### VueJS
